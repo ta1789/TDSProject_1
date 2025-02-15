@@ -1,0 +1,17 @@
+pillow~=11.1.0
+Faker~=36.1.0
+fastapi
+openai
+uvicorn
+json5
+tiktoken
+pydantic
+requests
+markdown==3.4.1
+python-dotenv
+duckdb
+bs4
+pillow
+pytesseract
+numpy
+moviepy
